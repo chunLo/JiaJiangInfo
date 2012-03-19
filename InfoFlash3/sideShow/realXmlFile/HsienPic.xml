@@ -1,0 +1,68 @@
+<?xml version="1.0" ?>
+
+<galleryPackage>
+	<makeup>
+	    
+	   <inFace>
+	    	<general>General Hsien</general>
+	    	<infoS>
+	    		Hsien Lorem ipsum dolor sit amet.
+	    	
+	    	</infoS>
+	    	
+	    	<imageS>
+	            <imageTitle>faceBack</imageTitle>
+	            <imgURL>pictures/Hsien/1.png</imgURL>
+	            <clickable>0</clickable>
+	            <imageX>0</imageX>   
+	            <imageY>20</imageY>
+	            <scaled>.5</scaled>
+	        </imageS>
+	        
+	    </inFace>
+	    
+	  
+	   
+	    <inFace>
+	    	<general>General Gan</general>
+	    	<infoS>
+	    		Gan Lorem ipsum dolor sit amet.Gan Lorem ipsum dolor sit amet <br /> Gan Lorem ipsum dolor sit amet.Gan Lorem ipsum dolor sit amet
+	    	</infoS>
+	    	<imageS>
+	            <imageTitle>faceBack</imageTitle>
+	            <imgURL>pictures/Gan/1.png</imgURL>
+	            <clickable>0</clickable>
+	            <imageX>0</imageX>   
+	            <imageY>20</imageY>
+	            <scaled>.5</scaled>
+	        </imageS>
+	        
+	        
+	    </inFace>
+	 
+	    <inFace>
+	    	<general>Fall Deity</general>
+	    	<infoS>
+	    		Some other info
+	    	</infoS>
+	    	<imageS>
+	            <imageTitle>faceBack</imageTitle>
+	            <imgURL>pictures/Fall/1.png</imgURL>
+	            <clickable>0</clickable>
+	            <imageX>0</imageX>   
+	            <imageY>20</imageY>
+	            <scaled>.5</scaled>
+	        </imageS>
+	        
+	        
+	    </inFace>
+	    
+	    
+	    
+	    
+	    
+	</makeup>
+	
+	
+	
+</galleryPackage>

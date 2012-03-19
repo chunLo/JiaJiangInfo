@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" ?>
+
+<galleryPackage>
+	    
+	    <wholeCostume>
+	        
+	        
+	        <imageMark>
+	            
+	            <imageMarkNum>0</imageMarkNum>
+	    		
+	    		<imageS>	    		    
+	           	 	<imageTitle>Fan face</imageTitle>
+	            	<imgURL>pictures/fanface1.png</imgURL>
+	            	<imageX>300</imageX>   
+	            	<imageY>300</imageY>
+	            	<scaled>0.8</scaled>
+	            	<pointX>50</pointX>
+	            	<pointY>100</pointY>
+	        	</imageS>
+	        	
+	        	<shortInfo>
+	                2His makeup means
+	            </shortInfo>
+	        
+	        </imageMark>
+	    </wholeCostume>
+
+		
+		<wholeCostume>
+		    <imageMark>
+		        
+		        <imageMarkNum>1</imageMarkNum>
+		        
+				<imageS>
+           	 		<imageTitle>Fan weapon1</imageTitle>
+	           		<imgURL>pictures/weapon.png</imgURL>
+	           		<imageX>250</imageX>   
+            		<imageY>300</imageY>
+            		<scaled>.5</scaled>	   
+            		<pointX>150</pointX>
+            		<pointY>150</pointY>
+        		</imageS>
+	            
+	            <shortInfo>
+	               2 His weapon means
+	      	    </shortInfo>
+	        
+	        </imageMark>
+	    </wholeCostume>
+	    
+	    
+	    <wholeCostume>
+	        <imageMark>
+	        
+	            <imageMarkNum>2</imageMarkNum>
+	            
+				<imageS>
+           	 		<imageTitle>Fan weapon2</imageTitle>
+	           		<imgURL>pictures/sans.png</imgURL>
+	           		<imageX>300</imageX>   
+            		<imageY>300</imageY>
+            		<scaled>.7</scaled>
+            		<pointX>400</pointX>
+            		<pointY>100</pointY>
+        		</imageS>
+	            
+	            <shortInfo>
+	                2His sans means
+	      	    </shortInfo>
+	        
+	        </imageMark>
+	    </wholeCostume>
+	   
+</galleryPackage>

@@ -1,0 +1,1 @@
+﻿package  {	import flash.display.MovieClip;	public class TextE extends MovieClip	{				public var info_textDay:String;		public var info_textNight:String;		public function TextE(textinfo:XML) 		{				    this.info_textDay = textinfo.mainContentText;			trace(info_textDay);					}	}	}

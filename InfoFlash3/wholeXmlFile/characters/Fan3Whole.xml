@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" ?>
+
+<galleryPackage>
+
+	    <wholeCostume>
+	    
+	        <imageMark>
+	            
+	            <imageMarkNum>0</imageMarkNum>
+	    		
+	    		<imageS>	    		    
+	           	 	<imageTitle>Fan face</imageTitle>
+	            	<imgURL>pictures/fanface1.png</imgURL>
+	            	<imageX>350</imageX>   
+	            	<imageY>300</imageY>
+	            	<scaled>1</scaled>
+	            	<pointX>400</pointX>
+	            	<pointY>382</pointY>
+	            	<pointtext>Fan's Makeup</pointtext>
+	        	</imageS>
+	        	
+	        	<shortInfo>
+	                His makeup means
+	            </shortInfo>
+	        
+	        </imageMark>
+	        
+	    </wholeCostume>
+
+		
+		<wholeCostume>
+		    <imageMark>
+		        
+		        <imageMarkNum>1</imageMarkNum>
+		        
+				<imageS>
+           	 		<imageTitle>Fan weapon1</imageTitle>
+	           		<imgURL>pictures/weapon.png</imgURL>
+	           		<imageX>350</imageX>   
+            		<imageY>300</imageY>
+            		<scaled>1</scaled>	   
+            		<pointX>500</pointX>
+            		<pointY>615</pointY>
+            		<pointtext>Weapon in right hand </pointtext>
+        		</imageS>
+	            
+	            <shortInfo>
+	                His weapon means
+	      	    </shortInfo>
+	        
+	        </imageMark>
+	    </wholeCostume>
+	    
+	    
+	    <wholeCostume>
+	        <imageMark>
+	        
+	            <imageMarkNum>2</imageMarkNum>
+	            
+				<imageS>
+           	 		<imageTitle>Fan weapon2</imageTitle>
+	           		<imgURL>pictures/sans.png</imgURL>
+	           		<imageX>350</imageX>   
+            		<imageY>300</imageY>
+            		<scaled>1</scaled>
+            		<pointX>200</pointX>
+            		<pointY>408</pointY>
+            		<pointtext> Weapon in left hand </pointtext>
+        		</imageS>
+	            
+	            <shortInfo>
+	                His sans means
+	      	    </shortInfo>
+	        
+	        </imageMark>
+	    </wholeCostume>
+	   
+</galleryPackage>
+
+
