@@ -1,0 +1,107 @@
+﻿<?xml version="1.0" ?>
+
+<galleryPackage>
+
+	    <wholeCostume>
+	    
+	        <imageMark>
+	            
+	            <imageMarkNum>0</imageMarkNum>
+	    		
+	    		<imageS>	    		    
+	           	 	<imageTitle>Gan face</imageTitle>
+	            	<imgURL>pictures/GanHead.png</imgURL>
+	            	<imageX>320</imageX>   
+	            	<imageY>300</imageY>
+	            	<scaled>0.5</scaled>
+	            	<pointX>300</pointX>
+	            	<pointY>382</pointY>
+	            	<pointtext>General Gan's Makeup & Helmet</pointtext>
+	        	</imageS>
+	        	
+	        	<shortInfo>
+	               The makeup of General Gan is half black and red. It means he always watch the world no matter in day or night. Besides, it also means he can connect two in  sides, the man’s world and the ghost’s world. The main features of General Gan’s makeup are some squares on the forehead. These squares symbolize octagonal shape. In our culture octagonal shape can exorcise evil. 
+The helmet for General Liu is the same with general Gan. Their helmets are similar to the officer helmets in chinese opera. 
+	            </shortInfo>
+	        
+	        </imageMark>
+	        
+	    </wholeCostume>
+
+		
+		<wholeCostume>
+		    <imageMark>
+		        
+		        <imageMarkNum>1</imageMarkNum>
+		        
+				<imageS>
+           	 		<imageTitle>Gan weapon1</imageTitle>
+	           		<imgURL>pictures/bamboo.png</imgURL>
+	           		<imageX>350</imageX>   
+            		<imageY>300</imageY>
+            		<scaled>.25</scaled>	   
+            		<pointX>200</pointX>
+            		<pointY>535</pointY>
+            		<pointtext>Weapon in right hand </pointtext>
+        		</imageS>
+	            
+	            <shortInfo>
+	               The main weapon in his left hand is  bamboo. his Bamboo is used to escort or control the evil ghosts that are hunted by General Hsien and Fan. Besides, Taiwanese bamboos can bring lucky and keep evil away.
+  
+	      	    </shortInfo>
+	        
+	        </imageMark>
+	    </wholeCostume>
+	    
+	    
+	    <wholeCostume>
+	        <imageMark>
+	        
+	            <imageMarkNum>2</imageMarkNum>
+	            
+				<imageS>
+           	 		<imageTitle>Fan weapon2</imageTitle>
+	           		<imgURL>pictures/sans.png</imgURL>
+	           		<imageX>350</imageX>   
+            		<imageY>300</imageY>
+            		<scaled>1</scaled>
+            		<pointX>450</pointX>
+            		<pointY>290</pointY>
+            		<pointtext> Weapon in left hand </pointtext>
+        		</imageS>
+	            
+	            <shortInfo>
+	               Sans are Jia Jiang’s basic equipment in order to hide their face.The reason they want to hide  scary makeup is they are afraid that they may scare people or good and honest ghosts. 
+	      	    </shortInfo>
+	        
+	        </imageMark>
+	    </wholeCostume>
+	    
+	    
+	     <wholeCostume>
+	        <imageMark>
+	        
+	            <imageMarkNum>2</imageMarkNum>
+	            
+				<imageS>
+           	 		<imageTitle>Fan weapon2</imageTitle>
+	           		<imgURL>pictures/Liuclose.png</imgURL>
+	           		<imageX>315</imageX>   
+            		<imageY>310</imageY>
+            		<scaled>.34</scaled>
+            		<pointX>430</pointX>
+            		<pointY>508</pointY>
+            		<pointtext> Gan's Clothes </pointtext>
+        		</imageS>
+	            
+	            <shortInfo>
+	              The clothes of General Gan is green in order to follow his bamboo weapon. Usually, he shows one side of shoulders to represent his he came from person.
+Another specail thing on his clothes is he will don an addtional octagon decoration with dragon patterns. In Taiwanese tradition, people believe dragons own huge power can help Jia Jiang exorcise ghosts.
+	      	    </shortInfo>
+	        
+	        </imageMark>
+	    </wholeCostume>
+	   
+</galleryPackage>
+
+

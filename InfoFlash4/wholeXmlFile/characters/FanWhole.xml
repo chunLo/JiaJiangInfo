@@ -1,0 +1,110 @@
+﻿<?xml version="1.0" ?>
+
+<galleryPackage>
+
+	    <wholeCostume>
+	    
+	        <imageMark>
+	            
+	            <imageMarkNum>0</imageMarkNum>
+	    		
+	    		<imageS>	    		    
+	           	 	<imageTitle>Fan face</imageTitle>
+	            	<imgURL>pictures/Fanhead.png</imgURL>
+	            	<imageX>340</imageX>   
+	            	<imageY>300</imageY>
+	            	<scaled>0.5</scaled>
+	            	<pointX>400</pointX>
+	            	<pointY>362</pointY>
+	            	<pointtext>General Fan's Makeup & Helmet</pointtext>
+	        	</imageS>
+	        	
+	        	<shortInfo>
+	        	     Fan's makeup always with fire pattern because his personality is testy and irritable. Besides, people also add some circles in Fan's makeup. Because Taiwanese believe the shape of circle represents money and that can bring wealth and lucky.
+	      
+General Fan’s Helmet is black and short because his stature is also short and his makeup is black. The words on his helmet means to reward goodness and punish evil.
+	                
+
+	            </shortInfo>
+	        
+	        </imageMark>
+	        
+	    </wholeCostume>
+
+		
+		<wholeCostume>
+		    <imageMark>
+		        
+		        <imageMarkNum>1</imageMarkNum>
+		        
+				<imageS>
+           	 		<imageTitle>Fan weapon1</imageTitle>
+	           		<imgURL>pictures/weapon.png</imgURL>
+	           		<imageX>380</imageX>   
+            		<imageY>300</imageY>
+            		<scaled>0.8</scaled>	   
+            		<pointX>500</pointX>
+            		<pointY>595</pointY>
+            		<pointtext>General Fan's Weapon in Right Hand</pointtext>
+        		</imageS>
+	            
+	            <shortInfo>
+	                The main weapon of general Fan is a board with tiger pattern. The tiger board is like the licence to prove his authority to catch ghosts. Sometimes, people will put the the same words like helmet on the board.
+
+	      	    </shortInfo>
+	        
+	        </imageMark>
+	    </wholeCostume>
+	    
+	    
+	    <wholeCostume>
+	        <imageMark>
+	        
+	            <imageMarkNum>2</imageMarkNum>
+	            
+				<imageS>
+           	 		<imageTitle>San2</imageTitle>
+	           		<imgURL>pictures/sans.png</imgURL>
+	           		<imageX>370</imageX>   
+            		<imageY>300</imageY>
+            		<scaled>1</scaled>
+            		<pointX>200</pointX>
+            		<pointY>388</pointY>
+            		<pointtext>General Fan's Weapon in Left Hand </pointtext>
+        		</imageS>
+	            
+	            <shortInfo>
+	                Sans are Jia Jiang’s basic equipment in order to hide their face.The reason they want to hide  scary makeup is they are afraid that they may scare people or good and honest ghosts. 
+	      	    </shortInfo>
+	        
+	        </imageMark>
+	    </wholeCostume>
+	    
+	    
+	     <wholeCostume>
+	        <imageMark>
+	        
+	            <imageMarkNum>2</imageMarkNum>
+	            
+				<imageS>
+           	 		<imageTitle>Fan cloth</imageTitle>
+	           		<imgURL>pictures/Fanclose.png</imgURL>
+	           		<imageX>315</imageX>   
+            		<imageY>310</imageY>
+            		<scaled>.34</scaled>
+            		<pointX>220</pointX>
+            		<pointY>588</pointY>
+            		<pointtext> Fan's Clothes </pointtext>
+        		</imageS>
+	            
+	            <shortInfo>
+	               The clothes of General Fan is black in order to follow his makeup. Usually, he shows one side of shoulders to represent his he came from person.
+Another specail thing on his clothes is he will don an addtional octagon decoration with dragon patterns. In Taiwanese tradition, people believe dragons own huge power can help Jia Jiang exorcise ghosts.
+	      	    </shortInfo>
+	        
+	        </imageMark>
+	    </wholeCostume>
+	   
+</galleryPackage>
+
+

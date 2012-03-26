@@ -1,0 +1,27 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+  
+  <head>
+    <title>SWFObject dynamic embed - step 3</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+    
+    <script type="text/javascript" src="javascript/swfobject.js"></script>
+    <!--just get me a file--!>
+    <script type="text/javascript">
+    swfobject.embedSWF("sample.swf", "myContent", "1000", "700", "9.0.0");
+    </script>
+
+  </head>
+  
+  <body bgcolor="#000000">
+    <div id="myContent"> <!-- put test in  // id just can use one time --!>
+      <p>Alternative content</p>
+    </div>
+    
+    <div id="sunnyLo">
+      <p>SunnyLo</p>
+    </div>
+    
+  </body>
+</html>

@@ -1,0 +1,68 @@
+<?xml version="1.0" ?>
+
+<galleryPackage>
+	<makeup>
+	    
+	   <inFace>
+	    	<general>1</general>
+	    	<infoS>
+	    		start makeup
+	    	
+	    	</infoS>
+	    	
+	    	<imageS>
+	            <imageTitle>faceBack</imageTitle>
+	            <imgURL>realPictures/Fan/F1.jpg</imgURL>
+	            <clickable>0</clickable>
+	            <imageX>0</imageX>   
+	            <imageY>20</imageY>
+	            <scaled>1</scaled>
+	        </imageS>
+	        
+	    </inFace>
+	    
+	  
+	   
+	    <inFace>
+	    	<general>2</general>
+	    	<infoS>
+	    		whole makrup look
+	    	</infoS>
+	    	<imageS>
+	            <imageTitle>faceBack</imageTitle>
+	            <imgURL>realPictures/Fan/F2.jpg</imgURL>
+	            <clickable>0</clickable>
+	            <imageX>0</imageX>   
+	            <imageY>20</imageY>
+	            <scaled>1</scaled>
+	        </imageS>
+	        
+	        
+	    </inFace>
+	 
+	    <inFace>
+	    	<general>3</general>
+	    	<infoS>
+	    		makeup and custome
+	    	</infoS>
+	    	<imageS>
+	            <imageTitle>faceBack</imageTitle>
+	            <imgURL>realPictures/Fan/F3.jpg</imgURL>
+	            <clickable>0</clickable>
+	            <imageX>0</imageX>   
+	            <imageY>20</imageY>
+	            <scaled>1</scaled>
+	        </imageS>
+	        
+	        
+	    </inFace>
+	    
+	    
+	    
+	    
+	    
+	</makeup>
+	
+	
+	
+</galleryPackage>

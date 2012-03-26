@@ -1,0 +1,106 @@
+﻿<?xml version="1.0" ?>
+
+<galleryPackage>
+
+	    <wholeCostume>
+	    
+	        <imageMark>
+	            
+	            <imageMarkNum>0</imageMarkNum>
+	    		
+	    		<imageS>	    		    
+	           	 	<imageTitle>Fan face</imageTitle>
+	            	<imgURL>pictures/LiuHead.png</imgURL>
+	            	<imageX>330</imageX>   
+	            	<imageY>300</imageY>
+	            	<scaled>0.5</scaled>
+	            	<pointX>420</pointX>
+	            	<pointY>358</pointY>
+	            	<pointtext>Liu's Makeup</pointtext>
+	        	</imageS>
+	        	
+	        	<shortInfo>
+	               The makeup of General Liu is unsymmetrical. The main patterns is swallows that covering eyes. The big and small swallows means mother swallow and her kid. It reminds people don’t foeget our parents and ancestry.
+
+The helmet for General Liu is the same with general Gan. Their helmets are similar to the officer helmets in chinese opera. 
+	            </shortInfo>
+	        
+	        </imageMark>
+	        
+	    </wholeCostume>
+
+		
+		<wholeCostume>
+		    <imageMark>
+		        
+		        <imageMarkNum>1</imageMarkNum>
+		        
+				<imageS>
+           	 		<imageTitle>Fan weapon1</imageTitle>
+	           		<imgURL>pictures/bamboo.png</imgURL>
+	           		<imageX>350</imageX>   
+            		<imageY>300</imageY>
+            		<scaled>.25</scaled>	   
+            		<pointX>500</pointX>
+            		<pointY>615</pointY>
+            		<pointtext>Weapon in right hand </pointtext>
+        		</imageS>
+	            
+	            <shortInfo>
+	                The main weapon in his left hand is  bamboo. his Bamboo is used to escort or control the evil ghosts that are hunted by General Hsien and Fan. Besides, Taiwanese bamboos can bring lucky and keep evil away.
+	      	    </shortInfo>
+	        
+	        </imageMark>
+	    </wholeCostume>
+	    
+	    
+	    <wholeCostume>
+	        <imageMark>
+	        
+	            <imageMarkNum>2</imageMarkNum>
+	            
+				<imageS>
+           	 		<imageTitle>Fan weapon2</imageTitle>
+	           		<imgURL>pictures/sans.png</imgURL>
+	           		<imageX>350</imageX>   
+            		<imageY>300</imageY>
+            		<scaled>1</scaled>
+            		<pointX>230</pointX>
+            		<pointY>358</pointY>
+            		<pointtext> Weapon in left hand </pointtext>
+        		</imageS>
+	            
+	            <shortInfo>
+	               Sans are Jia Jiang’s basic equipment in order to hide their face.The reason they want to hide  scary makeup is they are afraid that they may scare people or good and honest ghosts. 
+	      	    </shortInfo>
+	        
+	        </imageMark>
+	    </wholeCostume>
+	    
+	    <wholeCostume>
+	        <imageMark>
+	        
+	            <imageMarkNum>2</imageMarkNum>
+	            
+				<imageS>
+           	 		<imageTitle>Fan weapon2</imageTitle>
+	           		<imgURL>pictures/Liuclose.png</imgURL>
+	           		<imageX>315</imageX>   
+            		<imageY>310</imageY>
+            		<scaled>.34</scaled>
+            		<pointX>290</pointX>
+            		<pointY>508</pointY>
+            		<pointtext> Liu's Clothes </pointtext>
+        		</imageS>
+	            
+	            <shortInfo>
+	               The clothes of General Liu is green in order to follow his bamboo weapon. Usually, he shows one side of shoulders to represent his he came from person.
+Another specail thing on his clothes is he will don an addtional octagon decoration with dragon patterns. In Taiwanese tradition, people believe dragons own huge power can help Jia Jiang exorcise ghosts.
+	      	    </shortInfo>
+	        
+	        </imageMark>
+	    </wholeCostume>
+	   
+</galleryPackage>
+
+

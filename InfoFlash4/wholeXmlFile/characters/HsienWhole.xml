@@ -1,0 +1,104 @@
+﻿<?xml version="1.0" ?>
+
+<galleryPackage>
+	    
+	    <wholeCostume>
+	        
+	        
+	        <imageMark>
+	            
+	            <imageMarkNum>0</imageMarkNum>
+	    		
+	    		<imageS>	    		    
+	           	 	<imageTitle>Hsieh face</imageTitle>
+	            	<imgURL>pictures/hsiehHesd.png</imgURL>
+	            	<imageX>350</imageX>   
+	            	<imageY>290</imageY>
+	            	<scaled>0.5</scaled>
+	            	<pointX>240</pointX>
+	            	<pointY>360</pointY>
+	            	<pointtext>General Hsieh's Makeup & Helmet </pointtext>
+	        	</imageS>
+	        	
+	        	<shortInfo>
+	        	The background color in Hsieh’s makeup is white because he hung himself. Hsieh’s makeup always with bats’ patterns covering his eyes. Usually, there are four bats on his face because four bats means bring health and wealth to people. Besides, the decoration in the center of forehead is a chinese word that means auspicious.
+General Hsieh’s Helmet is white and tall because his stature is also tall and his makeup is white. The words on his helmet means bring you health and wealth.
+
+	            </shortInfo>
+	        
+	        </imageMark>
+	    </wholeCostume>
+
+		
+		<wholeCostume>
+		    <imageMark>
+		        
+		        <imageMarkNum>1</imageMarkNum>
+		        
+				<imageS>
+           	 		<imageTitle>Hsieh weapon1</imageTitle>
+	           		<imgURL>pictures/flail.png</imgURL>
+	           		<imageX>350</imageX>   
+            		<imageY>280</imageY>
+            		<scaled>.5</scaled>	   
+            		<pointX>160</pointX>
+            		<pointY>550</pointY>
+            		<pointtext>General Hsieh's Weapon in Right Hand </pointtext>
+        		</imageS>
+	            
+	            <shortInfo>
+	               Main weapon of general Hsien is flail. Flail is like a handcuff to catch  evil ghosts. Sometimes, people will put the the same words like helmet on the his flail. 
+	      	    </shortInfo>
+	        
+	        </imageMark>
+	    </wholeCostume>
+	    
+	    
+	    <wholeCostume>
+	        <imageMark>
+	        
+	            <imageMarkNum>2</imageMarkNum>
+	            
+				<imageS>
+           	 		<imageTitle>san2</imageTitle>
+	           		<imgURL>pictures/sans.png</imgURL>
+	           		<imageX>370</imageX>   
+            		<imageY>300</imageY>
+            		<scaled>1</scaled>
+            		<pointX>420</pointX>
+            		<pointY>280</pointY>
+            		<pointtext>General Hsieh's Weapon in Left Hand </pointtext>
+        		</imageS>
+	            
+	            <shortInfo>
+	               Sans are Jia Jiang’s basic equipment in order to hide their face. The reason they want to hide  scary makeup is they are afraid that they may scare people or good and honest ghosts. 
+	      	    </shortInfo>
+	        
+	        </imageMark>
+	    </wholeCostume>
+	   
+	   
+	    <wholeCostume>
+	        <imageMark>
+	        
+	            <imageMarkNum>2</imageMarkNum>
+	            
+				<imageS>
+           	 		<imageTitle>Fan weapon2</imageTitle>
+	           		<imgURL>pictures/Hsiehclose.png</imgURL>
+	           		<imageX>315</imageX>   
+            		<imageY>310</imageY>
+            		<scaled>.34</scaled>
+            		<pointX>380</pointX>
+            		<pointY>458</pointY>
+            		<pointtext> Hsieh's Clothes </pointtext>
+        		</imageS>
+	            
+	            <shortInfo>
+	              The clothes of General Hsieh is white because his Personality is elegant and like a graceful white crane. Like General Fan, he shows one side of shoulders to represent his he came from person.
+Another specail thing on his clothes is he will don an addtional octagon decoration with dragon patterns. In Taiwanese tradition, people believe dragons own huge power can help Jia Jiang exorcise ghosts.
+	      	    </shortInfo>
+	        
+	        </imageMark>
+	    </wholeCostume>
+</galleryPackage>
